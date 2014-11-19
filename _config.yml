@@ -11,8 +11,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : New Site
-tagline: A new website
+title : anth454eou
+tagline: Anthropological History & Theory
 author :
   name : Trey Batey
   email : ekt.batey@gmail.com
@@ -28,7 +28,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://bateyt.github.io/newsite
+production_url : http://bateyt.github.io/anth454eou
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -57,7 +57,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://bateyt.github.io/newsite
+  BASE_PATH : http://bateyt.github.io/anth454eou
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -90,7 +90,7 @@ JB :
       site_id : 123
     intensedebate :
       account : 123abc
-    facebook :
+    facebook : 
       appid : 123
       num_posts: 5
       width: 580
