@@ -64,42 +64,27 @@ There will be no exams in this course. There will, however, be a significant amo
 
 - **Discussion facilitation (25%)**:  Students must facilitate class discussions for at least three separate readings. Facilitation cannot be on consecutive readings. On the days that you facilitate, you must provide a copy of your notes for the reading.  This should be written for everyone to understand (i.e., more-formally than your typical notes). Your typed notes will be circulated among students at the beginning of class to help focus class discussions.    \ 
 
-- **Biographical research paper (25%)**:  The research paper will be due toward the end of the course. I will discuss all assignments in greater detail and give you guidelines and instructions for all assignments.   \ 
+- **Biographical research paper (25%)**:  The research paper will be due toward the end of the course. I will discuss all assignments in greater detail and give you guidelines and instructions for all assignments.
 
 **Grading summary**
-- Reading notes (class handout on facilitator days) (20%)   \ 
--Preparedness and facilitation of discussions of readings (25%)   \ 
-- Preparedness and participation in non-facilitated class discussions (30%)   \ 
+- Reading notes (class handout on facilitator days) (20%)   
+- Preparedness and facilitation of discussions of readings (25%)
+- Preparedness and participation in non-facilitated class discussions (30%)
 - Biographical research paper (25%)
 
   
 
 #### Grading Scale
-Letter grades are determined based on the following system:
+Grades are determined based on the following system:
 
-94--100 = A   \ 
+| Letter grade | Percentage range |
+|:------------:|:----------------:|
+A | 100--90
+B | 89--80
+C | 79--70
+D | 69--60
+F | 59 and below
 
-90--93 = A-   \ 
-
-87--89 = B+   \ 
-
-84--86 = B   \ 
-
-80--83 = B-   \ 
-
-77--79 = C+   \ 
-
-74--76= C   \ 
-
-70--73 = C-   \ 
-
-67--69 = D+   \ 
-
-64--66 = D   \ 
-
-60--63 = D-   \ 
-
-59 and below = F
 
 
 ### Course Outline

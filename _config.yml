@@ -85,13 +85,13 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : anth454eou
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook : 
-      appid : 123
+      appid : 
       num_posts: 5
       width: 580
       colorscheme: light
