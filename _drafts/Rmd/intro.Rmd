@@ -1,0 +1,40 @@
+---
+title: 'ANTH 454: Course Overview'
+author: "Trey Batey"
+date: "Winter 2015"
+output:
+  ioslides_presentation:
+    incremental: yes
+    logo: ~/GitHub/anth454eou/assets/pics/eou_logo_21.jpg
+    smaller: yes
+    widescreen: yes
+---
+
+## Blackboard or Canvas?
+
+Since EOU is migrating all online courses to Canvas by the Fall 2015 term, __I have decided to deploy this couse in Canvas__.
+
+- If you haven't yet taken an online class in Canvas, please take a short time---seriously, less than 12 minutes---and watch the Canvas Student Orientation Video, created by EOU's rockin' IT staff and provided in the next slide. _(You can also watch the video at a later time by following the link below the video.)_
+
+## Canvas Student Orientation Video
+
+<iframe src="http://player.vimeo.com/video/97347021" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/97347021">Canvas Student Orientation</a> from <a href="http://vimeo.com/user17570673">James Long</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Required Texts
+Erickson, Paul A., and Liam D. Murphy, eds. _Readings for a history of anthropological theory_, 4th edition. University of Toronto Press, 2013.
+
+- Yes, you need the most-recent (4th) edition.
+- It's available for order at the EOU Bookstore.
+
+- ![](http://bateyt.github.io/anth454/assets/pics/anth454_bookstore.png)<br>
+
+- Also, you may obtain the book from another online retailer (e.g., Amazon, textbooks.com, etc.)
+
+- Some additional readings may be assigned and will be made available in Canvas.
+
+
+## Comming soon...
+
+- More information on the class will be added to this presentation by the start of the Winter 2015 term.
+
+- If you'd like a _general_ idea of the content and structure of the class, see [this __*old*__ syllabus](http://bateyt.github.io/anth454eou/syllabus.html). Please keep in mind that this syllabus was for an on-campus section of ANTH 454 taught in Spring 2014. In other words, the syllabus will be updated, particularly in class structure, to better suit an online environment.

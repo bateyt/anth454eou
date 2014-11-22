@@ -34,13 +34,13 @@ In this course, students explore some of the major social theories and debates t
 Through assigned readings and classroom discussions, students will investigate a range of theoretical propositions concerning such topics as agency, gender, structure, subjectivity, power, culture, and the politics of representation. We will approach each theoretical perspective or proposition on three levels: (1) in terms of its analytical or explanatory power for understanding human behavior and the social world; (2) in the context of the social and historical circumstances in which they were produced; and (3) as contributions to ongoing dialogues and debate.
 
 
-### Required Texts
+## Required Texts
 - Erickson, Paul A., and Liam D. Murphy, eds. _Readings for a history of anthropological theory_, 4th edition. University of Toronto Press, 2013.
 
-Many additional readings will be assigned and made available through [Blackboard](http://blackboard.eou.edu/). **If you have never used Blackboard---or, even if you have and could use a refresher---you should check out [EOU's Blackboard resources and tutorials](http://www.eou.edu/bb/).**
+Some additional readings may be assigned and will be made available in [Canvas](https://eou.instructure.com/login). **If you haven't yet used Canvas---or, even if you have and need help or additional resources---check out [EOU's "Student Resources for Canvas" page](https://www.eou.edu/lms/student-resources/).**
 
 
-### Learning Outcomes
+## Learning Outcomes
 Upon successful completion of this course, students should be able to do the following:
 
 1. Explain/discuss some of the general theories that have shaped the discipline of anthropology.
@@ -55,61 +55,55 @@ Upon successful completion of this course, students should be able to do the fol
 
 
 
-### Course Requirements and Grading
+## Course Requirements and Grading
 There will be no exams in this course. There will, however, be a significant amount of reading, writing, and engagement in discussion. Your grade will be based on your notes on the readings, , a biographical research paper, and your general preparedness and participation throughout the course, including participation on the discussion board. The essays will be based on the readings, lectures, and forum discussions; the biographical research paper will allow you to review the life and work of  a single anthropologist. 
 
-- **Reading notes (20%)**:  Reading notes (of approximately one page per reading) are required for each reading. The notes for any specific, assigned reading are due in class the day each specific reading is discussed. Preferably, your notes will be typed (submit hard copies in class or through Bb's Assignment tool). Reading notes are reflections on the day’s readings: statements of the argument(s), critical commentary, and discussion questions.    \ 
+- **Reading notes (20%)**:  Reading notes (of approximately one page per reading) are required for each reading. The notes for any specific, assigned reading are due in class the day each specific reading is discussed. Preferably, your notes will be typed (submit hard copies in class or through Bb's Assignment tool). Reading notes are reflections on the day’s readings: statements of the argument(s), critical commentary, and discussion questions.
 
 - **Class discussion (30%)**:  It is expected that the students in this course will participate openly in class discussions. Please feel free to express yourself in class. Ask questions if you don't understand or need more explanation, or have a comment or a dissenting opinion. Argue (respectfully and intelligently) with the instructor and your fellow classmates; human knowledge is not set in concrete--it is changing and evolving all the time.  If you have a different view or interpretation of events, speak up!  
 
-- **Discussion facilitation (25%)**:  Students must facilitate class discussions for at least three separate readings. Facilitation cannot be on consecutive readings. On the days that you facilitate, you must provide a copy of your notes for the reading.  This should be written for everyone to understand (i.e., more-formally than your typical notes). Your typed notes will be circulated among students at the beginning of class to help focus class discussions.    \ 
+- **Discussion facilitation (25%)**:  Students must facilitate class discussions for at least three separate readings. Facilitation cannot be on consecutive readings. On the days that you facilitate, you must provide a copy of your notes for the reading.  This should be written for everyone to understand (i.e., more-formally than your typical notes). Your typed notes will be circulated among students at the beginning of class to help focus class discussions.
 
 - **Biographical research paper (25%)**:  The research paper will be due toward the end of the course. I will discuss all assignments in greater detail and give you guidelines and instructions for all assignments.
 
-**Grading summary**
-- Reading notes (class handout on facilitator days) (20%)   
-- Preparedness and facilitation of discussions of readings (25%)
-- Preparedness and participation in non-facilitated class discussions (30%)
-- Biographical research paper (25%)
 
-  
-
-#### Grading Scale
+### Grading Scale
 Grades are determined based on the following system:
 
 | Letter grade | Percentage range |
 |:------------:|:----------------:|
-A | 100--90
-B | 89--80
-C | 79--70
-D | 69--60
-F | 59 and below
+A | 100--90|
+B | 89--80|
+C | 79--70|
+D | 69--60|
+F | 59 and below|
+|=====
+|    |    |
+{: class="table"}
 
 
-
-### Course Outline
+## Course Outline
 Access a tentative schedule for the course. The instructor will make a concerted effort to adhere to the schedule outlined below and will notify students of any changes/updates.
 
 
-### General Education Category and Outcomes
+## General Education Category and Outcomes
 None
 
 
-### University Writing Requirement Outcomes
+## University Writing Requirement Outcomes
 None
 
 
-### Statement on Academic Misconduct
+## Statement on Academic Misconduct
 Eastern Oregon University places a high value upon the integrity of its student scholars. Any student found guilty of an act of academic misconduct (including, but not limited to, cheating, plagiarism, or theft of an examination or supplies) may be subject to having his or her grade reduced in the course in question, being placed on probation or suspended from the University, or being expelled from the University---or, a combination of these. For more information on EOU's policies regarding academic misconduct, please see the [Student Handbook](http://www.eou.edu/sse/student-handbook).
 
 
-### Statement on Americans with Disabilities
-If you have a documented disability or suspect that you have a learning problem and need accommodations, please contact [Disability Services](http://www.eou.edu/disability/) in Loso Hall 234. Telephone:  962-3081.   \      
-\     
-\     
+## Statement on Americans with Disabilities
+If you have a documented disability or suspect that you have a learning problem and need accommodations, please contact [Disability Services](http://www.eou.edu/disability/) in Loso Hall 234. Telephone:  962-3081.
 
 -----------------------------------------
 
-#### Prepared by Trey Batey
+<br>
+Prepared by Trey Batey.
 
-#### Last updated 20 November 2014
+Last updated 21 November 2014
