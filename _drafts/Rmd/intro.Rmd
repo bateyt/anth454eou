@@ -24,16 +24,15 @@ Since EOU is migrating all online courses to Canvas by the Fall 2015 term, __I h
 Erickson, Paul A., and Liam D. Murphy, eds. _Readings for a history of anthropological theory_, 4th edition. University of Toronto Press, 2013.
 
 - Yes, you need the most-recent (4th) edition.
-- It's available for order at the EOU Bookstore.
+- It's available for order at the EOU Bookstore:
+    + ![](http://bateyt.github.io/anth454eou/assets/pics/anth454_bookstore.png)
 - Also, you may obtain the book from another online retailer (e.g., Amazon, textbooks.com, etc.)
 - Some additional readings may be assigned and will be made available in Canvas.
-
-![](http://bateyt.github.io/anth454/assets/pics/anth454_bookstore.png)
-
-
 
 ## Coming soon...
 
 - More information on the class will be added to this presentation by the start of the Winter 2015 term.
 
 - If you'd like a _general_ idea of the content and structure of the class, see [this __*old*__ syllabus](http://bateyt.github.io/anth454eou/syllabus.html). Please keep in mind that this syllabus was for an on-campus section of ANTH 454 taught in Spring 2014. In other words, the syllabus will be updated, particularly in class structure, to better suit an online environment.
+
+- For more information, please contact [Trey Batey](mailto:ebatey@eou.edu).
