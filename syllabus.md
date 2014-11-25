@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-tagline: ANTH 454-101 (Winter 2014)
+tagline: ANTH 454-101 (Winter 2015)
 group: navigation
 toc: yes
 toc_depth: 2

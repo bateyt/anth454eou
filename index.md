@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ANTH 454
-tagline: Anthropological History & Theory
+title: Anthropological History & Theory
+tagline: Winter 2015
 ---
 {% include JB/setup %}
 
