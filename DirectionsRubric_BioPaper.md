@@ -4,7 +4,8 @@ title: Directions & Rubric---Biographical Research PaperSyllabus
 tagline: ANTH 454---Winter 2015
 group: 
 toc: yes
-toc_depth: 2  
+toc_depth: 2
+---
 
 ### General Formatting Requirements
 
