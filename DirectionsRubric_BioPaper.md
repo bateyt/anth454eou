@@ -76,7 +76,7 @@ Your paper will be graded using the following rubric. All parts are not weighted
 
 
 ### Submission requirements
-Students must submit papers electronically in Canvas using the "Submit Biographical Research Paper" assignment tool available from the Assignments area or the Week 11 Module.  Acceptable file formats include MS Word (\*.docx, \*.doc), LibreOffice (\*.odt), Rich Text Format (\*.rtf), or a link (URL) to a shared Google Doc. Papers must be submitted no later than **Monday, 9 March at 11:59 PM**. Papers submitted after the deadline will be penalized a letter grade for each day late, as per the general late-work policy.
+Students must submit papers electronically in Canvas using the "Submit Biographical Research Paper" assignment tool available from the Assignments area or the Week 11 Module.  Acceptable file formats include MS Word (\*.docx, \*.doc), LibreOffice (\*.odt), Rich Text Format (\*.rtf), or a link (URL) to a shared Google Doc. Papers must be submitted no later than **Monday, 16 March at 11:59 PM**. Papers submitted after the deadline will be penalized a letter grade for each day late, as per the general late-work policy.
 
 
 
