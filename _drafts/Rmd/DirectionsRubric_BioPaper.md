@@ -4,7 +4,17 @@ ANTH 454---Winter 2015
 
 ### General Formatting Requirements
 
-The paper should be a length of 10-15 pages, NOT including your title page and references cited list (bibliography). Use Times New Roman font, size 10--12pt. The body of the paper must be double-spaced. Section headers should be in bold-face type, with only one extra line separating the section header from the preceeding body text. Use one-inch margins all around. All pages after the title page and page one need a header that includes your last name and page number (e.g., Batey, 2).
+Please have your paper reflect reflect the following formatting guidelines:
+
+- Length:  10--13 pages, __NOT__ including a title page (if used) and a list of references cited. 
+
+- Page setup:  1-inch margins (all), header or footer with page number
+
+- Font:  10--12pt font size; standard fonts only (i.e., Arial, Times New Roman, Helvetica, or Calibri)
+
+- Line spacing:  Single-spaced heading (i.e., name, class, assignment) and double-spaced body. Be sure to NOT include extra space before/after paragraphs. Your word-processing program has controls for this feature (wherever it allows you to modify line spacing).
+
+- Miscellaneous:  Please use bold-face type for any section headers and italics for any subsection headers. No extra spacing for section separation.
 
 
 ### Style and Citation/References
@@ -23,6 +33,7 @@ The list below provides some useful links for considerations of writing style, a
 
 - [American Psychological Association (APA) Style Guide](https://owl.english.purdue.edu/owl/resource/560/01/)------If your concentration is sociology, you will probably want to use this style.
 
+<br>
 
 
 ### Content Requirements
@@ -38,7 +49,9 @@ Your paper will be graded using the following rubric. All parts are not weighted
 #### General Format (20%)
 |              | Mastery        | Satisfactory  |  Needs Improvement
  ------------- | -------------  | ------------- |  ------------------
-| **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. | \ 
+| **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. |
+
+<br>
 
 
 #### Style (30%)
@@ -46,6 +59,8 @@ Your paper will be graded using the following rubric. All parts are not weighted
  ------------- | -------------  | ------------- |  ------------------
 | **Organization** | Paper is arranged logically into sections (e.g., Introduction, Biographical Information, Theory and Impact on Anthropology, etc.) addressing certain themes. Thesis clearly outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is arranged into sections, though sections and themes are not clearly defined. Thesis outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is disorganized; sections (if used) and themes are not clearly defined. Thesis is not outlined in the introduction. The paper ends abruptly without a smmary/conclusion section.
 | **Clarity/style** | Clear, consise writing with few to no errors in grammar/style and spelling. | Writing is clear, relatively error free, except a few instances of incorrect grammar/style and/or spelling. | Writing consistently exhibits errors in grammar/style and/or spelling, making understanding difficult.
+
+<br>
 
 
 #### Content (50%)
@@ -57,7 +72,7 @@ Your paper will be graded using the following rubric. All parts are not weighted
 
 
 ### Submission requirements
-The paper is due no later than **Monday, 9 March at 11:59 PM**. Papers submitted after the deadline will be penalized a letter grade for each day late, as per the general late-work policy.
+Submit paper electronically in Canvas using the "Submit Biographical Research Paper" assignment tool available from the Assignments area or the apers must be sThe paper is due no later than **Monday, 9 March at 11:59 PM**. Papers submitted after the deadline will be penalized a letter grade for each day late, as per the general late-work policy.
 
 
 #### Safe Assign via Blackboard
