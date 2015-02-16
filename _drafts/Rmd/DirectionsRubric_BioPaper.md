@@ -1,11 +1,6 @@
----
-layout: page
-title: Directions and Rubric---Biographical Research PaperSyllabus
-tagline: ANTH 454---Winter 2015
-group: 
-toc: yes
-toc_depth: 2
----
+# Directions & Rubric---Biographical Research Paper
+ANTH 454---Winter 2015  
+  
 
 ### General Formatting Requirements
 
@@ -36,17 +31,14 @@ The main outcome of this assignment is that students will present biographical r
 
 
 ### Assessment/Grading
-Your paper will be graded using the following rubric. All parts are not weighted equally. For example, content and your understanding of your chosen personality's work and theoretical positions (including criticisms leveled against those positions) counts more than grammar/style. At the same time, logical organization and good writing style (grammar, spelling, etc.) will affect how you present that content to express your ideas. 
+Your paper will be graded using the following rubric. All parts are not weighted equally. For example, content and your understanding of your chosen personality's work and theoretical positions (including criticisms leveled against those positions) counts more than grammar/style. At the same time, logical organization and good writing style (grammar, spelling, etc.) will affect how you present that content to express your ideas.   \ 
 
-<br>
 
 
 #### General Format (20%)
 |              | Mastery        | Satisfactory  |  Needs Improvement
  ------------- | -------------  | ------------- |  ------------------
-| **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. | 
-
-<br>
+| **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. | \ 
 
 
 #### Style (30%)
@@ -54,8 +46,6 @@ Your paper will be graded using the following rubric. All parts are not weighted
  ------------- | -------------  | ------------- |  ------------------
 | **Organization** | Paper is arranged logically into sections (e.g., Introduction, Biographical Information, Theory and Impact on Anthropology, etc.) addressing certain themes. Thesis clearly outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is arranged into sections, though sections and themes are not clearly defined. Thesis outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is disorganized; sections (if used) and themes are not clearly defined. Thesis is not outlined in the introduction. The paper ends abruptly without a smmary/conclusion section.
 | **Clarity/style** | Clear, consise writing with few to no errors in grammar/style and spelling. | Writing is clear, relatively error free, except a few instances of incorrect grammar/style and/or spelling. | Writing consistently exhibits errors in grammar/style and/or spelling, making understanding difficult.
-
-<br>
 
 
 #### Content (50%)
