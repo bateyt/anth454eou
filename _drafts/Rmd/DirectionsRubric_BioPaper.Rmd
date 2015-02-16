@@ -9,7 +9,7 @@ output:
 
 ### General Formatting Requirements
 
-Please have your paper reflect reflect the following formatting guidelines:
+Please have your paper reflect reflect the following formatting guidelines. An example of what one's paper may look like can be found [here](https://docs.google.com/document/d/14u26YsoHNXGO7g3piECO1gNZYRNUq46q5Ho8wEht6vU/edit?usp=sharing).
 
 - Length:  10--13 pages, __NOT__ including a title page (if used) and a list of references cited. 
 
@@ -23,7 +23,10 @@ Please have your paper reflect reflect the following formatting guidelines:
 
 
 ### Style and Citation/References
-The list below provides some useful links for considerations of writing style, as well as style guides for citations and references. Ideallyl, you should choose the style guide generally accepted within your concentration area. For example, history and anthropology may have some specific, stylistic differences, but both tend to use variations of the *Chicago Manual of Style*. The main rule is **be consistent**; choose a style and stick with it.  
+The list below provides some useful links for considerations of writing style, as well as style guides for citations and references. Ideallyl, you should choose the style guide generally accepted within your concentration area. For example, history and anthropology may have some specific, stylistic differences, but both tend to use variations of the *Chicago Manual of Style*. The main rule is **be consistent**; choose a style and stick with it. 
+
+EOU’s Pierce Library has [some excellent resources](http://library.eou.edu/help/style.htm) to help students properly cite sources. Additionally, the EOU Writing Center has some resources for improving your writing, in general, and some [specific resources](https://www.google.com/url?q=https%3A%2F%2Fdiigo.com%2F07c9oi&sa=D&sntz=1&usg=AFQjCNGrDNzCv2J9UwJEQu-UxEyFXkvSTg) that help students avoid [plagiarism](http://www.google.com/url?q=http%3A%2F%2Fwww.wsulibs.wsu.edu%2Flibrary-instruction%2Fplagiarism%2Fwhat&sa=D&sntz=1&usg=AFQjCNG5l3uKEvZ8H_bh-Q1e2sGiLIDVQQ).
+
 
 * Strunk, William, and Elwyn Brooks White. [The elements of style](http://books.google.com/books?id=sj5_wr6zIEcC&dq=strunk+and+white%27s+elements+of+style&source=gbs_navlinks_s) Penguin, 2007. (1st edition also freely available [electronically](http://www.bartleby.com/141/) )------This classic, bestselling style guide is a simple, straightforward reference for effective writing.   \ 
 \ 
@@ -37,6 +40,9 @@ The list below provides some useful links for considerations of writing style, a
 - [Society for American Archaeology (SAA) Style Guide](http://www.saa.org/Portals/0/SAA/Publications/StyleGuide/StyleGuide_Final_813.pdf)------If your research topic area is archaeology, use the SAA style. \ 
 
 - [American Psychological Association (APA) Style Guide](https://owl.english.purdue.edu/owl/resource/560/01/)------If your concentration is sociology, you will probably want to use this style.
+
+
+All cited sources should be included at the end of your paper, beginning on a page titled “References Cited” or "Works Cited."  While it can be counter-productive to require a minimum number of references, it is not unreasonable to expect that for a 10--13-page paper, one could easily need at least 15 references, especially since much of the information reported would not be considered general knowledge. Thus, you must include a minimum of 10 references. Of these, only two can be electronic sources (meaning wesites); the remainder must be scholarly books and/or articles from peer-reviewed, scholarly journals. This can include scholarly, peer-reviewed journals that are accessible online (e.g., PLOS ONE) and electronically-available material of print journals. Some acceptable scholarly journals that you will likely use include---but are not limited to--- the following:  American Journal of Physical Anthropology, Nature, Science, American Anthropologist, and Current Anthropology. 
 
 <br>
 
