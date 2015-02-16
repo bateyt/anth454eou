@@ -41,7 +41,7 @@ All cited sources should be included at the end of your paper, beginning on a pa
 
 
 ### Content Requirements
-The main outcome of this assignment is that students will present biographical research on a person who has made a significant contribution to the development of anthropological theory. In writing the paper, then, students should focus on answering questions in from two general perspectives:  the person's biographical information (e.g., aspects of the person's birth/death, upbringing, educational background, personal relationships, etc.) and theoretical contributions to anthropology (e.g., intellectual influences, main theoretical positions/arguments, specialized research area, criticisms of, legacy in anthropological theory, etc.). Of course, you should expect to drawin connections between aspects of your individual's personal life and their intellectual life.
+The main outcome of this assignment is that students will present biographical research on a person who has made a significant contribution to the development of anthropological theory. In writing the paper, then, students should focus on answering questions in from two general perspectives:  the person's biographical information (e.g., aspects of the person's birth/death, upbringing, educational background, personal relationships, etc.) and theoretical contributions to anthropology (e.g., intellectual influences, main theoretical positions/arguments, specialized research area, criticisms of, legacy in anthropological theory, etc.). You should expect to draw connections between aspects of your individual's personal life and their intellectual life.
 
 
 
