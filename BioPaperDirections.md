@@ -89,4 +89,5 @@ Not to beat a dead horse, but Eastern Oregon University places a high value upon
 -----------------------------------------
 
 ##### Prepared by Trey Batey
+
 ##### Last updated 13 February 2015
