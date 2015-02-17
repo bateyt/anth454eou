@@ -45,14 +45,14 @@ The main outcome of this assignment is that students will present biographical r
 
 
 ### Assessment/Grading
-Your paper will be graded using the following rubric. All parts are not weighted equally. For example, content and your understanding of your chosen personality's work and theoretical positions (including criticisms leveled against those positions) counts more than grammar/style. At the same time, logical organization and good writing style (grammar, spelling, etc.) will affect how you present that content to express your ideas.   \ 
-
+Your paper will be graded using the following rubric. All parts are not weighted equally. For example, content and your understanding of your chosen personality's work and theoretical positions (including criticisms leveled against those positions) counts more than grammar/style. At the same time, logical organization and good writing style (grammar, spelling, etc.) will affect how you present that content to express your ideas.   
 
 
 #### General Format (20%)
 |              | Mastery        | Satisfactory  |  Needs Improvement |
  ------------- | -------------  | ------------- |  ------------------ |
 | **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. |
+{: class="table"}
 
 <br>
 
@@ -62,6 +62,7 @@ Your paper will be graded using the following rubric. All parts are not weighted
  ------------- | -------------  | ------------- |  ------------------ |
 | **Organization** | Paper is arranged logically into sections (e.g., Introduction, Biographical Information, Theory and Impact on Anthropology, etc.) addressing certain themes. Thesis clearly outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is arranged into sections, though sections and themes are not clearly defined. Thesis outlined in the introduction. A summary/conclusion section restates the thesis and ties salient points from the text together. | Paper is disorganized; sections (if used) and themes are not clearly defined. Thesis is not outlined in the introduction. The paper ends abruptly without a smmary/conclusion section. |
 | **Clarity/style** | Clear, consise writing with few to no errors in grammar/style and spelling. | Writing is clear, relatively error free, except a few instances of incorrect grammar/style and/or spelling. | Writing consistently exhibits errors in grammar/style and/or spelling, making understanding difficult. |
+{: class="table"}
 
 <br>
 
@@ -71,6 +72,7 @@ Your paper will be graded using the following rubric. All parts are not weighted
  ------------- | -------------  | ------------- |  ------------------ |
 | **Biographical information** | Paper includes a detailed discussion that includes salient biographical information (e.g., birth, death, family life, education, etc.) | Paper includes some biographical information, but not in sufficient detail/background. | Paper includes only minimal biographical information. |
 | **Theoretical summary/analysis** | Persona's main theorectical contributions are explored in with specific examples. Includes discussion of critiques to persona's theories and their impact on anthropology. Student demonstrates understanding of persona's specific theories. | Persona's main theorectical contributions are explored, though in little detail wihtout specific examples. Little explanation of critiques and persona's theories and their impact on anthropology. Student demonstrates general understanding of persona's specific theories. | Persona's main theorectical contributions not fully explored, or incorrect, without specific examples. Little to no discussion of critiques to persona's theories and their impact on anthropology. Student demonstrates only minimal understanding of persona's specific theories. | 
+{: class="table"}
 
 
 
