@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directions & Rubric - Biographical Research Paper
+title: Directions/Rubric - Research Paper
 tagline: ANTH 454 (Winter 2015)
 ---
 
