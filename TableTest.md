@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Table test
-group: navigation
 ---
 
 | Header1 | Header2 | Header3 |
