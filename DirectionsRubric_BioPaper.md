@@ -1,3 +1,8 @@
+---
+layout: page
+title: Directions and Rubric
+---
+
 # Directions & Rubric---Biographical Research Paper
 ANTH 454---Winter 2015  
   
