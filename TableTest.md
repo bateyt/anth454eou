@@ -3,6 +3,7 @@ layout: page
 title: Table test
 ---
 
+|         | Header2 | Header3 |
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
