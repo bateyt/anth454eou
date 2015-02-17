@@ -4,7 +4,17 @@ title: Table test
 ---
 
 
-#### General Format
+#### General Format (20%)
+
+|         | Mastery | Statisfactory | Needs Improvement |
+|:--------|:-------|:-------|:--------
+| **Margings, fonts, etc.** | Paper is appropriate length. Margins and spacing are set correctly. Appropriate pages include page number and header. | Paper does not completely meet meet required length, a small number (few instances) of formatting issues. | Multiple aspects of formatting (e.g., length, spacing, pagination, etc.) do not meet the requirements as specified and are consistently incorrect throughout. |
+|=====
+{: class="table"}
+
+<br>
+
+#### Style (30%)
 
 |         | Mastery | Statisfactory | Needs Improvement |
 |:--------|:-------|:-------|:--------
