@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Directions and Rubric
+published: true
 ---
 
 # Directions & Rubric---Biographical Research Paper
