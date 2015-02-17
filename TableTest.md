@@ -3,14 +3,14 @@ layout: page
 title: Table test
 ---
 
-|         | Header2 | Header3 |
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+|         | Mastery | Statisfactory | Needs Improvement |
+| __Organization__ | Header2 | Header3 |
+|:--------|:-------:|:-------:|--------:
+| cell1   | cell2   | cell3   | cell 4 |
+| cell4   | cell5   | cell6   | cell 4 |
 |----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| cell1   | cell2   | cell3   | cell 4 |
+| cell4   | cell5   | cell6   | cell 4 |
 |=====
-| Foot1   | Foot2   | Foot3
+| Foot1   | Foot2   | Foot3 | Foot 4
 {: class="table"}
