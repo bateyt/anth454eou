@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Directions & Rubric---Biographical Research Paper
-tagline: ANTH 454---Winter 2015  
+title: Directions & Rubric - Biographical Research Paper
+tagline: ANTH 454 (Winter 2015  )
 ---
 
 ### General Formatting Requirements
