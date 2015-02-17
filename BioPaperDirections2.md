@@ -35,7 +35,15 @@ EOU's Pierce Library has [some excellent resources](http://library.eou.edu/help/
 
 - [American Psychological Association (APA) Style Guide](https://owl.english.purdue.edu/owl/resource/560/01/)------If your concentration is sociology, you will probably want to use this style.
 
+All cited sources should be included at the end of your paper, beginning on a page titled "References Cited" or "Works Cited."  While it can be counter-productive to require a minimum number of references, it is not unreasonable to expect that for a 10--13-page paper, one could easily need at least 15 references, especially since much of the information reported would not be considered general knowledge. __Thus, you must include a minimum of 10 references. Of these, only _four_ can be electronic sources (meaning websites); the remainder must be scholarly books and/or articles from peer-reviewed, scholarly journals.__ This can include scholarly, peer-reviewed journals that are accessible online (e.g., PLOS ONE) and electronically-available material of print journals. Some acceptable scholarly journals that you will likely use include---but are not limited to--- the following:  _American Journal of Physical Anthropology_, _Nature_, _Science_, _American Anthropologist_, _Current Anthropology_, _Journal of Anthropological Sciences_, _American Antiquity_, and _American Journal of Sociology_.
 
+
+### Content Requirements
+The main outcome of this assignment is that students will present biographical research on a person who has made a significant contribution to the development of anthropological theory. In writing the paper, then, students should focus on answering questions in from two general perspectives:  the person's biographical information (e.g., aspects of the person's birth/death, upbringing, educational background, personal relationships, etc.) and theoretical contributions to anthropology (e.g., intellectual influences, main theoretical positions/arguments, specialized research area, criticisms of, legacy in anthropological theory, etc.). You should expect to draw connections between aspects of your individual's personal life and their intellectual life.
+
+
+### Assessment/Grading
+Your paper will be graded using the following rubric. All parts are not weighted equally. For example, content and your understanding of your chosen personality's work and theoretical positions (including criticisms leveled against those positions) counts more than grammar/style. At the same time, logical organization and good writing style (grammar, spelling, etc.) will affect how you present that content to express your ideas. 
 
 
 
@@ -68,3 +76,19 @@ EOU's Pierce Library has [some excellent resources](http://library.eou.edu/help/
 | __Theoretical summary/analysis__ | Persona's main theorectical contributions are explored in with specific examples. Includes discussion of critiques to persona's theories and their impact on anthropology. Student demonstrates understanding of persona's specific theories. | Persona's main theorectical contributions are explored, though in little detail wihtout specific examples. Little explanation of critiques and persona's theories and their impact on anthropology. Student demonstrates general understanding of persona's specific theories. | Persona's main theorectical contributions not fully explored, or incorrect, without specific examples. Little to no discussion of critiques to persona's theories and their impact on anthropology. Student demonstrates only minimal understanding of persona's specific theories. |
 |=====
 {: class="table"}
+
+
+### Submission requirements
+Students must submit papers electronically in Canvas using the "Submit Biographical Research Paper" assignment tool available from the Assignments area or the Week 11 Module.  Acceptable file formats include MS Word (\*.docx, \*.doc), LibreOffice (\*.odt), Rich Text Format (\*.rtf), or a link (URL) to a shared Google Doc. Papers must be submitted no later than **Monday, 16 March at 11:59 PM**. Papers submitted after the deadline will be penalized a letter grade for each day late, as per the general late-work policy.
+
+
+#### Avoiding Plagiarism
+Not to beat a dead horse, but Eastern Oregon University places a high value upon the integrity of its student scholars. Plagiarism, __even if unintentional__, is an actionable offense of the EOU [Student Handbook](http://www.eou.edu/sse/student-handbook). Again, Pierce Libray has [some great resources](http://library.eou.edu/help/style.htm) for properly citing your sources. If uncertain, here are some suggested [tips to avoid plagiarsim](http://www.nwmissouri.edu/library/services/plagtips.htm). 
+
+<br>
+
+-----------------------------------------
+
+##### Prepared by Trey Batey
+
+##### Last updated 13 February 2015
